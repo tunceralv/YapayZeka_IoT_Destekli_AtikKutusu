@@ -1,0 +1,35 @@
+{
+    "7A:B3:C7:A0": {
+        "isim": "Tuncer",
+        "sayaclar": {
+            "plastik": 1,
+            "cam": 1,
+            "kagit": 2,
+            "metal": 1
+        },
+        "bakiye": 9,
+        "sehir": "sakarya"
+    },
+    "E6:78:4F:05": {
+        "isim": "Mert",
+        "sayaclar": {
+            "plastik": 0,
+            "cam": 0,
+            "kagit": 0,
+            "metal": 0
+        },
+        "bakiye": 0,
+        "sehir": "Ankara"
+    },
+    "84:65:12:02": {
+        "isim": "Umut",
+        "sayaclar": {
+            "plastik": 0,
+            "cam": 0,
+            "kagit": 0,
+            "metal": 0
+        },
+        "bakiye": 0,
+        "sehir": "Ankara"
+    }
+}
